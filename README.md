@@ -9,7 +9,7 @@ Honestly, I don't really know much about software engineering as a whole, as mos
 ### Some things I've built
 
 You can look at my GitHub repos for stuff I've built, but the most major thing I've built is a full-stack streaming website. [HERE](https://github.com/altaccount123456/KCNSource)
-I built it as I went, and it worked well, though the stack isn't modern and it's stitched together. Learned a lot about web dev when building it, however. 
+I built it as I went, and it worked well, though the stack isn't modern and it's stitched together. Learned a lot about web dev when building it, however. (I was around 14 - 15 - 16 when building this, so don't expect it to be that good lol )
 
 
 
