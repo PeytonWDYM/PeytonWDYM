@@ -4,23 +4,19 @@ helllooo
 
 ## Experience
 
-Honestly, I don't really know much about software engineering as a whole, as most of my experience comes from personal projects and my desire to build the stuff I want. NOT studying. Project-based is how I'd describe it ig.
+I learn by building. Most of what I know comes from making things I wanted to exist. Project-based.
 
 ### Some things I've built
 
-You can look at my GitHub repos for stuff I've built, but the most major thing I've built is a full-stack streaming website. [HERE](https://github.com/altaccount123456/KCNSource)
-I built it as I went, and it worked well, though the stack isn't modern and it's stitched together. Learned a lot about web dev when building it, however. (I was around 14 - 15 - 16 when building this, so don't expect it to be that good lol )
+You can look at my GitHub repos for stuff I've built, but the biggest thing I've made is a full-stack streaming website.
 
-
+**[KCNSource](https://github.com/altaccount123456/KCNSource)**: a full-stack streaming website I built from scratch between ages 14 and 16. I figured it out as I went, and it taught me a lot about web dev. At its peak it had about 20 streamers, and it even has its own [wiki page](https://indietv.miraheze.org/wiki/KODI_Cable_Network) if you want the full story.
 
 ## Interests
-- Computers
-- Cars 
-- Software Engineering
-- EAS
-- Weather
-- TWC stuffs 
-- AI in SWE
+
+- Software engineering and AI
+- Computers and cars
+- Weather, The Weather Channel (TWC), and the Emergency Alert System (EAS) (Not THAT much anymore)
 
 
 ## Find Me
